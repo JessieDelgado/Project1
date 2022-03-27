@@ -81,7 +81,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-!(C:\Users\temar\OneDrive\Desktop\project.png)
+<img width="953" alt="project" src="https://user-images.githubusercontent.com/92039917/160264038-e3203b5a-613d-43fc-88dd-c465398fb554.png">
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
